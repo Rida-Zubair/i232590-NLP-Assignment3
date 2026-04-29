@@ -1,0 +1,4 @@
+run,d_model,heads,enc_layers,dec_layers,lr,batch_size,notes
+1,128,4,2,2,0.0003,64,Main run used in notebook.
+2,64,4,1,1,0.0003,64,Suggested quick baseline for faster debugging.
+3,128,4,3,2,0.0002,64,Suggested stronger encoder; compare validation sentiment accuracy.

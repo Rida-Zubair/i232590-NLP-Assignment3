@@ -1,0 +1,127 @@
+[
+  {
+    "query_review": "What can you say about OXO products, they're great.  These are easy to use, go in the dishwasher for complete cleaning and are easy to handle.  If they break or if there is an issue, OXO stands behind their products.",
+    "true_sentiment": "Positive",
+    "pred_sentiment": "Positive",
+    "retrieved": [
+      {
+        "similarity": 0.969,
+        "rating": 5,
+        "sentiment": "Positive",
+        "review": "and they work very well. High quality and inexpensive, plus fast shipping. Just add a few tablespoons to a jar filled with salt, and you have your effective, cheap daily shower scrub for dry skin. Also works great on chapped lips and dry hands!"
+      },
+      {
+        "similarity": 0.9685,
+        "rating": 5,
+        "sentiment": "Positive",
+        "review": "I love OXO products for the quality and durability. These tongs are no exception. Nice soft grip and sturdy locking mechanism. Reasonable price too. I have several sizes of  OXO tongs for different uses and they all have performed perfectly for many years."
+      },
+      {
+        "similarity": 0.9684,
+        "rating": 5,
+        "sentiment": "Positive",
+        "review": "We really like this pressure cooker.  It is well made and the perfect size for our family.  We have cooked beans, chicken, beef, and many other items in it and it works great and is high quality.  Shipped fast & well packaged."
+      }
+    ]
+  },
+  {
+    "query_review": "fits like a glove, good design, just got it today and im impressed. i really like how it seperates the volume up and down buttons as well as the power button. also makes them easier to push. i wouldnt trust it to save the screen from a 3 foot drop but for ordinary use i think it will serve me well.. also the material has a good feel to it. and its ",
+    "true_sentiment": "Positive",
+    "pred_sentiment": "Positive",
+    "retrieved": [
+      {
+        "similarity": 0.988,
+        "rating": 3,
+        "sentiment": "Neutral",
+        "review": "I've bought this so I don't have to start the grile in the winter to cook.  It worked fine, but cleaning it is a pain.  The food sticks to the grid.  Sometimes I would have to soak it over night and clean it the next day.  Other than that it's a great grill for people who live alone and don't want t"
+      },
+      {
+        "similarity": 0.9873,
+        "rating": 3,
+        "sentiment": "Neutral",
+        "review": "I love that it comes with the facial cleaner brush, but the system itself is okay. I felt like I was not getting enough steam. I had to put a towel over my head to confine the steam to stay in one place long enough to open my pores better. I guess it's a safely measure. I just wish it had a control "
+      },
+      {
+        "similarity": 0.9863,
+        "rating": 2,
+        "sentiment": "Negative",
+        "review": "This does the job but not easily.  The handle is large and a bit difficult to maneuver.  The brush gets hot fast so be prepared.  I tend to use it on the lower or cool settings.  Finally it is loud, loud like a leaf blower.  I put ear plugs in  whenever I use it otherwise it is too troublesome.  All"
+      }
+    ]
+  },
+  {
+    "query_review": "Buying this totally beats having to pay to have your screen replaced everytime you drop your phone. A must buy.",
+    "true_sentiment": "Positive",
+    "pred_sentiment": "Positive",
+    "retrieved": [
+      {
+        "similarity": 0.9794,
+        "rating": 5,
+        "sentiment": "Positive",
+        "review": "These are perfect to have as \"extra\" if you use your phone a lot or have kids who do - good price/shipping."
+      },
+      {
+        "similarity": 0.9789,
+        "rating": 5,
+        "sentiment": "Positive",
+        "review": "A truely great item to have when your phone needs protection.  My advice is to get it."
+      },
+      {
+        "similarity": 0.9769,
+        "rating": 2,
+        "sentiment": "Negative",
+        "review": "This one feels cheap and flimsy. I rarely use it and will probably buy a different style of sifter."
+      }
+    ]
+  },
+  {
+    "query_review": "I bought these for my mother for Christmas.  I have been using them and love them.  We have had the same crappy knives for the past 10 years probably so having something knew is a complete 180.  Cutting up poultry, veggies, anything has been very simple.  It motivates me to cook more!  I love these knives though and am very satisfied given that the",
+    "true_sentiment": "Positive",
+    "pred_sentiment": "Positive",
+    "retrieved": [
+      {
+        "similarity": 0.9869,
+        "rating": 5,
+        "sentiment": "Positive",
+        "review": "I have lots of very fine, straight hair. This comb is perfect for styling my type of hair. The tail is well-shaped and comfortable against my scalp, and the teeth a well-suited to both smoothing and teasing. I have been purchasing this particular style of comb for about a decade now ... and I don't "
+      },
+      {
+        "similarity": 0.9867,
+        "rating": 5,
+        "sentiment": "Positive",
+        "review": "This is a simple but good pressure cooker.  I have owned the same model for several years.  You have to be attentive when you use them, but they work great and make a great quick homecooked meal - think of it as the opposite of a slow cooker/crock pot.  I bought this one for my daughter and gave her"
+      },
+      {
+        "similarity": 0.9861,
+        "rating": 5,
+        "sentiment": "Positive",
+        "review": "I bought these for Christmas gifts and one for myself.  This is wonderful hand cream and everyone I have it to loved it.  Very dense in the jar but absorbs wonderfully into my skin. My hands feel very \"protected\" when I use. I would rather pay more for a product that works great than to waste money "
+      }
+    ]
+  },
+  {
+    "query_review": "Purchased the 3670G via Amazon. Just arrived and immediately plugged it into my Kill-A-Watt. The device shows amperage draw on anything plugged into it and it shows the Mite is only drawing 10amps.Either I received the 10amp model that other reviewers have posted about (old reviews though... two year old reviews) or the mfg is lying about it's capa",
+    "true_sentiment": "Neutral",
+    "pred_sentiment": "Positive",
+    "retrieved": [
+      {
+        "similarity": 0.9958,
+        "rating": 3,
+        "sentiment": "Neutral",
+        "review": "I have a small rash problem on my shoulder area that is exacerbated by swimming  in a chlorinated public pool, so I was looking for a cream or lotion to mitigate the problem.  This not only did not help, but it made the situation worse (mostly the rash started itching even more).  However, it does h"
+      },
+      {
+        "similarity": 0.9955,
+        "rating": 5,
+        "sentiment": "Positive",
+        "review": "People are so immature. Yes, the product looks goofy, we get it, but leaving whole bunch of fake reviews is not funny, it's just plain stupid.That being said, facial flex does work. I had a smile line that I couldn't get rid of and that was the only reason i paid $50 for something like that. Within "
+      },
+      {
+        "similarity": 0.9955,
+        "rating": 3,
+        "sentiment": "Neutral",
+        "review": "This is a nice concept.  It allows the holster to orient either horizontal or vertically.  The only problem is that the first one I got...the clip snapped the first day I wore it.  The replacement is holding up much better, but it's gotten a bit floppy.  It would probably work fine for someone who w"
+      }
+    ]
+  }
+]

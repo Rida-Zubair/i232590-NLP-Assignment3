@@ -1,0 +1,3 @@
+system,test_nll,test_perplexity
+Full RAG with retrieved context,4.564240096843528,95.98962347689967
+Baseline without retrieval,3.9892880660962753,54.01641955053361
